@@ -16,7 +16,7 @@
 }
 
 /*Smartphones*/
-@media(max-width:500px;){
+@media(max-width:500px){
   #navbar{
     flex-direction: column;
     align-items: center;
